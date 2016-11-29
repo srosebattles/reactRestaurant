@@ -1,0 +1,25 @@
+{
+  "name": "reactRestaurant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srosebattles/reactRestaurant.git"
+  },
+  "keywords": [],
+  "author": "Sarah Rose Battles <srosebattles@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/srosebattles/reactRestaurant/issues"
+  },
+  "homepage": "https://github.com/srosebattles/reactRestaurant#readme",
+  "dependencies": {
+    "babel-standalone": "^6.19.0",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  }
+}
